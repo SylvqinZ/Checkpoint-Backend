@@ -1,0 +1,19 @@
+entity: "Country"
+items:
+  country0:
+    code: "FR"
+    name: "France"
+    emoji: "🇫🇷"
+    continent: "Europe"
+
+  country1:
+    code: "DE"
+    name: "Allemagne"
+    emoji: "🇩🇪"
+    continent: "Europe"
+
+  country2:
+    code: "US"
+    name: "Etats Unis"
+    emoji: "🇺🇸"
+    continent: "Amerique du Nord"
